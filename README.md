@@ -2,7 +2,7 @@
 this is the windows client for fifaholic web project. Press one button, create your match, included with statistics.
 
 # Usage
-Treat this informations as if two projects were under one roof, as <a href="https://fifaholic.noircontact.online/login">fifaholic</a> and current repo.
+Treat this informations as if two projects were under one roof, as <a href="https://github.com/ErikliPizza/fifaholic">fifaholic</a> and current repo.
 
 Web App:
 This project uses Google Vision API. So, check out the env example carefully and set-up your configurations correctly.
