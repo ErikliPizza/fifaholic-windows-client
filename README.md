@@ -8,9 +8,14 @@ Web App:
 This project uses Google Vision API. So, check out the env example carefully and set-up your configurations correctly.
 
 Client App:
-Url: Fifaholic web page
-Access Key: Get your access key via <a href="https://fifaholic.noircontact.online/login">fifaholic</a>.
-Select your league before create a match.
+<ul>
+<li>Url: Fifaholic web page
+</li>
+<li>Access Key: Get your access key via <a href="https://fifaholic.noircontact.online/login">fifaholic</a>.
+</li>
+    <li>Select your league before create a match.
+</li>
+</ul>
 
 # Important
 <ul>
