@@ -1,0 +1,21 @@
+C:\Users\VViglaf\source\repos\GDP\GDP\bin\Debug\GDP.exe.config
+C:\Users\VViglaf\source\repos\GDP\GDP\bin\Debug\GDP.exe
+C:\Users\VViglaf\source\repos\GDP\GDP\bin\Debug\GDP.pdb
+C:\Users\VViglaf\source\repos\GDP\GDP\obj\Debug\GDP.csproj.AssemblyReference.cache
+C:\Users\VViglaf\source\repos\GDP\GDP\obj\Debug\GDP.csproj.SuggestedBindingRedirects.cache
+C:\Users\VViglaf\source\repos\GDP\GDP\obj\Debug\GDP.Form1.resources
+C:\Users\VViglaf\source\repos\GDP\GDP\obj\Debug\GDP.Properties.Resources.resources
+C:\Users\VViglaf\source\repos\GDP\GDP\obj\Debug\GDP.csproj.GenerateResource.cache
+C:\Users\VViglaf\source\repos\GDP\GDP\obj\Debug\GDP.csproj.CoreCompileInputs.cache
+C:\Users\VViglaf\source\repos\GDP\GDP\obj\Debug\GDP.exe
+C:\Users\VViglaf\source\repos\GDP\GDP\obj\Debug\GDP.pdb
+C:\Users\VViglaf\source\repos\GDP\GDP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\VViglaf\source\repos\GDP\GDP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\VViglaf\source\repos\GDP\GDP\obj\Debug\GDP.csproj.CopyComplete
+C:\Users\VViglaf\source\repos\GDP\GDP\bin\Debug\ControlzEx.dll
+C:\Users\VViglaf\source\repos\GDP\GDP\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\VViglaf\source\repos\GDP\GDP\bin\Debug\ControlzEx.pdb
+C:\Users\VViglaf\source\repos\GDP\GDP\bin\Debug\ControlzEx.xml
+C:\Users\VViglaf\source\repos\GDP\GDP\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\VViglaf\source\repos\GDP\GDP\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\VViglaf\source\repos\GDP\GDP\bin\Debug\MetroSet UI.dll
