@@ -1,5 +1,5 @@
 # fifaholic-windows-client
-this is the windows client for fifaholic web project. Press one button, create your match, included with statistics.
+this is the windows client for fifaholic web project. Press one button, create your game record, included with statistics.
 
 # Usage
 Treat this informations as if two projects were under one roof, as <a href="https://github.com/ErikliPizza/fifaholic">fifaholic</a> and current repo.
